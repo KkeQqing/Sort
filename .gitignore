@@ -1,0 +1,33 @@
+# 编译输出
+[Bb]in/
+[Oo]bj/
+
+# VS 用户配置（每个人自己的窗口布局、断点）
+*.suo
+*.user
+*.userosscache
+*.rsuser
+*.sln.docstates
+
+# NuGet
+**/[Pp]ackages/
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# .NET 缓存
+.vs/
+.idea/
+.vscode/
+
+# 日志、运行时文件
+*.log
+*.tmp
+*.cache
+
+# 操作系统垃圾
+.DS_Store
+Thumbs.db
+
+# 可选：如果你不想提交本地appsettings.json（带密码）
+# appsettings.json
